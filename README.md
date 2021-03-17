@@ -8,10 +8,10 @@ Vagrantfile для задания: [Vagrantfile](./Vagrantfile)
 
             testClient2 <-> testServer2
 
-#В общую сеть были добавлены 4 хоста. Общая карта сети доступна [здесь](https://).
+#В общую сеть были добавлены 4 хоста. Общая карта сети доступна [здесь](https://github.com/Konstantin0607/VLANs/blob/master/full-map.png).
 
 Схема для задания:
-<a href="https://" rel="Click!">![map](./vlan.png)</a>
+<a href="https://github.com/Konstantin0607/VLANs/blob/master/vlan.png" rel="Click!">![map](./vlan.png)</a>
 
 Доступ к хостам для проверки можно получить через:
 
@@ -36,7 +36,7 @@ Vagrantfile для задания: [Vagrantfile](./Vagrantfile)
 
 Схема для задания:
 
-<a href="https:" rel="Click!">![map](./bonding.png)</a>
+<a href="https://github.com/Konstantin0607/VLANs/blob/master/bonding.png" rel="Click!">![map](./bonding.png)</a>
 
 Доступ к хостам для проверки можно получить через:
 
